@@ -1,9 +1,8 @@
 # BMI-Calculator
-
-                           |  
-:-------------------------:|:-------------------------:
-![](![image](https://github.com/99-chetna/BMI-Calculator/assets/112334463/83ff3276-3243-49d9-bc0b-b9c138957400)
-)  |  ![](![image](https://github.com/99-chetna/BMI-Calculator/assets/112334463/e0248fec-cc6b-4aad-85ac-436942118203)
+|                                      |                                    |
+| ----------------------------------- | ----------------------------------- |
+| ![](![image](https://github.com/99-chetna/BMI-Calculator/assets/112334463/7b301be3-e5b3-4f13-9874-5e69497d50f0)
+) | ![](![Uploading image.png…]()
 )
 
 
