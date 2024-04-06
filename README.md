@@ -1,8 +1,7 @@
 # BMI-Calculator
 
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![![image](https://github.com/99-chetna/BMI-Calculator/assets/112334463/e6ab9bce-5cfa-424b-8b6f-4592bceaa24e)](https://...Dark.png)  |  ![![image](https://github.com/99-chetna/BMI-Calculator/assets/112334463/4469d780-6938-4c87-b0b6-d4841355bac2)
+![image](https://github.com/99-chetna/BMI-Calculator/assets/112334463/e6ab9bce-5cfa-424b-8b6f-4592bceaa24e)](https://...Dark.png)  |  ![![image](https://github.com/99-chetna/BMI-Calculator/assets/112334463/4469d780-6938-4c87-b0b6-d4841355bac2)
 ](https://...Ocean.png)
 
 
